@@ -81,8 +81,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    color: #2c3e50;
+    background: #ffffff;
 }
 
 header .container {
@@ -171,7 +171,8 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 180px 0;
+    padding: 128px;
+    padding-bottom: 15px;
 }
 
 section h2 {
@@ -220,7 +221,7 @@ section.success a.active {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: rgba(44, 62, 80, 0.61);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
